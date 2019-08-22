@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942592955704",
+    "firebase_url": "https://tubonge-84f9a.firebaseio.com",
+    "project_id": "tubonge-84f9a",
+    "storage_bucket": "tubonge-84f9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942592955704:android:2bab537567364a9d",
+        "android_client_info": {
+          "package_name": "com.eshop.tubonge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942592955704-r8bjdrg5omtaf2akoc2ttoe4v2bok0at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eshop.tubonge",
+            "certificate_hash": "ea9befafc4d5fbd77d3244dd7aae1f3d70ce2a05"
+          }
+        },
+        {
+          "client_id": "942592955704-mero7uti2sb8k1q10n934g6q3mifvpp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqg_41Mb_W_19GpdCt1qpcBzD_otcZns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942592955704-mero7uti2sb8k1q10n934g6q3mifvpp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
